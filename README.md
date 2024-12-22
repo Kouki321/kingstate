@@ -35,6 +35,9 @@ The **State Design Pattern** is employed to change the behavior of the `Pawn` ba
 1. When the application starts, a chessboard (8x8 grid) will appear.
 2. Use the **arrow keys** (Up, Down, Left, Right) to move the pawn.
 3. The pawn will change state to a **king** when it reaches the last column (you can change this condition in the code).
+![image](https://github.com/user-attachments/assets/55b011e6-7bf6-4513-b5b1-3f8f5d49ae20)
+
+![image](https://github.com/user-attachments/assets/1e6104b6-63a9-4143-a622-62cf3a6d82c8)
 
 ## Example of State Classes
 
@@ -47,9 +50,6 @@ public interface PawnState {
 
 
 
-![image](https://github.com/user-attachments/assets/55b011e6-7bf6-4513-b5b1-3f8f5d49ae20)
-
-![image](https://github.com/user-attachments/assets/1e6104b6-63a9-4143-a622-62cf3a6d82c8)
 
 
 
