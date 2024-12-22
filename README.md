@@ -44,3 +44,12 @@ public interface PawnState {
     void move(Pawn pawn);
     void promote(Pawn pawn);
 }
+
+
+
+![image](https://github.com/user-attachments/assets/55b011e6-7bf6-4513-b5b1-3f8f5d49ae20)
+
+![image](https://github.com/user-attachments/assets/1e6104b6-63a9-4143-a622-62cf3a6d82c8)
+
+
+
